@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">
     Hi 👋, I'm Montassar Ben Dhifallah
 </h1>
-<h3 align="center">A passionate Machine learning engineer from Tunisia</h3>
+<h3 align="center">A passionate Machine learning engineer and software developer from Tunisia</h3>
 <h3 align="center">I am interested in computer vision and healthcare</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=momentum-tn&label=Profile%20views&color=0e75b6&style=flat" alt="momentum-tn" /> </p>
