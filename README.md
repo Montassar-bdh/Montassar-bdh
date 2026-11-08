@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Machine learning engineer and software developer from Tunisia</h3>
 <h3 align="center">I am interested in computer vision and healthcare</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momentum-tn&label=Profile%20views&color=0e75b6&style=flat" alt="momentum-tn" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Montassar-bdh&label=Profile%20views&color=0e75b6&style=flat" alt="momentum-tn" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momentum-tn" alt="momentum-tn" /></a> </p>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/montassar-bdh" target="blank"
+  <a href="https://linkedin.com/in/montassar-bendhifallah" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
